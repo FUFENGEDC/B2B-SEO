@@ -1,0 +1,4 @@
+cluster_id,pillar_topic,article_title,funnel_stage,search_intent,primary_keyword,secondary_keywords,long_tail_keywords,search_volume,difficulty,business_intent_score(1-5),conversion_potential(1-5),cluster_synergy(1-5),priority_score,write_wave,owner,status,notes
+C01,b2b seo strategy,B2B SEO策略完整指南（从流量到线索）,TOFU,informational,b2b seo strategy,"b2b seo framework|seo workflow","b2b seo strategy template|how to build b2b seo process",1200,35,4,4,5,0,Now,seo-lead,backlog,
+C01,b2b seo strategy,企业SEO工作流怎么搭建（含SOP）,MOFU,commercial,enterprise seo workflow,"seo sop|seo process","enterprise seo checklist|seo workflow for saas",500,42,5,5,5,0,Now,content,backlog,
+C02,seo lead generation,SEO如何带来B2B线索增长（MQL/SQL视角）,BOFU,commercial,seo lead generation,"seo mql|seo sql","b2b seo lead generation framework|seo pipeline attribution",350,46,5,5,4,0,Next,growth,backlog,

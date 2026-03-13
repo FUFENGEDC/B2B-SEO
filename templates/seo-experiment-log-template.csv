@@ -1,0 +1,2 @@
+date,page_url,stage_at_test,experiment_name,hypothesis,change_made,primary_metric,baseline,result,decision,owner,next_action
+2026-01-01,/blog/b2b-seo-strategy,optimizing,CTA block test,Adding in-content CTA will increase conversion,Added CTA after section 2,form_submit_rate,1.2%,,pending,seo-lead,

@@ -1,0 +1,4 @@
+keyword,cluster_topic,search_intent,funnel_stage,business_value(0-5),ranking_difficulty(0-5),content_fit(0-5),lead_potential(0-5),priority_score,current_url,target_url,owner,status,notes
+b2b seo strategy,b2b seo,informational,TOFU,5,3,5,4,16,,,seo-lead,backlog,
+enterprise seo workflow,enterprise seo,commercial,MOFU,5,4,4,5,15,,,content,brief_ready,
+seo lead generation,b2b lead gen,commercial,BOFU,5,4,5,5,16,,,growth,in_production,

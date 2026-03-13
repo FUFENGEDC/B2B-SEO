@@ -1,0 +1,4 @@
+id,topic,keyword,owner,stage,status,sla_due,brief_link,draft_link,published_url,next_review_date,notes
+1,B2B SEO strategy,b2b seo strategy,seo-lead,planning,backlog,,,,,,
+2,Enterprise SEO workflow,enterprise seo workflow,content,planning,brief_ready,,,,,,
+3,SEO lead generation,seo lead generation,growth,production,in_production,,,,,,
