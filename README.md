@@ -21,7 +21,14 @@
 
 ## 仓库结构
 
-- `docs/b2b-seo-workflow.md`：完整工作流、RACI、KPI 与 SOP
-- `templates/keyword-cluster-template.csv`：关键词聚类与优先级模板
-- `templates/content-brief-template.md`：内容任务模板
-- `templates/seo-experiment-log-template.csv`：实验与优化记录模板
+### 文档（docs/）
+- `b2b-seo-workflow.md`：完整工作流、RACI、KPI 与 SOP
+- `content-creation-sop.md`：内容生产 12 步标准流程（EEAT + GEO + Schema）
+- `keyword-research-sop.md`：关键词调研 SOP（4 大流程 + 5 大方法 + SERP 分析）
+
+### 模板（templates/）
+- `keyword-cluster-template.csv`：关键词聚类与优先级模板
+- `keyword-record-template.csv`：文章关键词词表（含内链/外链/Schema 归档）
+- `content-brief-template.md`：内容 Brief 模板（含 EEAT/GEO/DoD 清单）
+- `article-cluster-research-template.md`：文章集群标题调研 + 竞对大纲记录表
+- `seo-experiment-log-template.csv`：实验与优化记录模板
