@@ -7,24 +7,142 @@
 
 ## 文章集群类型说明
 
-| 集群类型 | 核心意图 | 典型读者 | 漏斗阶段 |
-|---|---|---|---|
-| 产品型文章集群 | 了解产品规格、价格、应用场景 | 采购经理、工程师 | TOFU/MOFU |
-| 工程类文章集群 | 解决技术问题、了解工艺流程 | 技术工程师、项目经理 | TOFU/MOFU |
-| 认证类文章集群 | 了解认证标准、合规要求 | 合规官、品质部门 | MOFU/BOFU |
+| 一级集群类型          | 核心要回答的问题          | 典型标题方向                                                                                                                                          | 适合覆盖的内容                    | 漏斗阶段        | 商业价值           |
+| --------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ----------- | -------------- |
+| 认知教育型集群         | 这是什么？             | What is X, X meaning, X explained, X types, X uses                                                                                              | 定义、分类、基础知识、用途说明            | TOFU        | 拉新流量、做主题入口     |
+| 选型决策型集群         | 我该怎么选？            | How to choose, buying guide, selection guide, best X for Y, what to consider when buying X                                                      | 选购标准、采购要点、适配建议、不同需求推荐      | MOFU        | 很强，适合导向产品页/服务页 |
+| 对比替代型集群         | X 和 Y 有什么区别？      | X vs Y, compare, alternative, pros and cons, which is better                                                                                    | 对比、优缺点、替代方案、适用场景差异         | MOFU        | 很强，搜索意图明确      |
+| 规格标准型集群         | 参数、标准、技术要求是什么？    | Specifications, dimensions, standards, tolerance, testing method, technical requirements                                                        | 尺寸、参数、测试方法、行业标准、技术要求       | TOFU / MOFU | 强，利于建立专业度      |
+| 应用场景 / 解决方案型集群  | 它适合谁？适合什么项目？      | Best for hotel, for supermarkets, for retailers, for e-commerce sellers, for hospitals / villas / contractors                                   | 人群场景、行业方案、项目适配、客户类型拆分      | MOFU / BOFU | 很强，最适合 B2B 转化  |
+| 工艺质量 / 问题排查型集群  | 怎么做？为什么出问题？怎么解决？  | Manufacturing process, quality control, common defects, troubleshooting, why does X happen, how to avoid X                                      | 工艺流程、质量控制、常见问题、缺陷分析、解决方案   | TOFU / MOFU | 强，能体现工厂经验      |
+| 认证合规型集群         | 需要符合什么认证或法规？      | Certification explained, compliance requirements, OEKO-TEX / CE / REACH / ASTM / ISO, testing and certification cost, how to pass certification | 认证介绍、测试流程、标准解释、合规要求、认证成本   | MOFU / BOFU | 中高，信任价值很强      |
+| 采购合作 / 供应商评估型集群 | 怎么合作？怎么判断供应商是否靠谱？ | OEM vs ODM, MOQ, lead time, quotation guide, how to evaluate a manufacturer, factory audit checklist, supplier checklist                        | 合作模式、MOQ、交期、打样、报价、验厂、供应商筛选 | MOFU / BOFU | 最高，最接近询盘       |
+
 
 ---
 
 ## Step 1：调研文章集群标题
 
-**目标**：为三种集群类型各规划 5-10 篇文章标题。
+**目标**：为下面8种集群类型各规划 5-10 篇文章标题。
 
 **操作步骤**：
 1. 使用 `templates/article-cluster-research-template.md` 进行标题调研
 2. 从以下维度出发构建标题：
-   - 产品型：产品定义、规格对比、价格指南、应用场景、选型指南
-   - 工程类：工艺流程、技术标准、材料选择、问题解决、工艺对比
-   - 认证类：认证介绍、认证流程、标准要求、合规指南、认证费用
+1. 认知教育型集群
+
+回答“这是什么”。
+
+适合写：
+
+What is X?
+X meaning
+X explained
+X types
+X uses
+
+这类文章负责拉新流量、做主题入口。
+
+2. 选型决策型集群
+
+回答“我该怎么选”。
+
+适合写：
+
+how to choose
+buying guide
+selection guide
+best X for Y
+what to consider when buying X
+
+这类很适合 B2B，商业价值很高。
+
+3. 对比替代型集群
+
+回答“X 和 Y 有什么区别”。
+
+适合写：
+
+X vs Y
+compare
+alternative
+pros and cons
+which is better
+
+这类经常带强意图，转化也不差。
+
+4. 规格标准型集群
+
+回答“参数、标准、技术要求是什么”。
+
+适合写：
+
+specifications
+dimensions
+standards
+tolerance
+testing method
+technical requirements
+
+这个可以覆盖你原来“工程类”的很大一部分。
+
+5. 应用场景 / 解决方案型集群
+
+回答“它适合谁、适合什么项目”。
+
+适合写：
+
+best for hotel
+for supermarkets
+for retailers
+for e-commerce sellers
+for hospitals / villas / contractors
+
+这个特别适合你这种 B2B 制造商网站。
+
+6. 工艺质量 / 问题排查型集群
+
+回答“怎么做、为什么会出问题、怎么解决”。
+
+适合写：
+
+manufacturing process
+quality control
+common defects
+troubleshooting
+why does X happen
+how to avoid X
+
+这个才是真正更完整的“工程类”。
+
+7. 认证合规型集群
+
+回答“要符合什么认证、标准、法规”。
+
+适合写：
+
+certification explained
+compliance requirements
+OEKO-TEX / CE / REACH / ASTM / ISO
+testing and certification cost
+how to pass certification
+
+认证类保留，但不再是三分天下之一，而是体系里的一个模块。
+
+8. 采购合作 / 供应商评估型集群
+
+回答“怎么和你合作，怎么判断供应商靠不靠谱”。
+
+适合写：
+
+OEM vs ODM
+MOQ
+lead time
+quotation guide
+how to evaluate a manufacturer
+factory audit checklist
+supplier checklist
+
+这个我建议你一定单独拉出来，因为它最接近询盘。
 3. 参考来源：Google 自动补全、SEMrush Topic Research、行业论坛问题
 4. 标题评估标准：有搜索量、有商业意图、与产品强相关
 
