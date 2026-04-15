@@ -56,7 +56,7 @@
 - Step 6：生成适合文章的 EEAT
 - Step 10：生成结构化数据代码
 
-### Gemini nanobanna
+### Gemini 3.1 Pro
 负责“调研、扩展、成稿、图像规划”：
 
 - Step 3：竞对调研与分析
